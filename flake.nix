@@ -24,6 +24,9 @@
           utop
           ocaml-lsp
           odoc
+
+          base
+          core
         ]);
 
         buildInputs = with pkgs; [];

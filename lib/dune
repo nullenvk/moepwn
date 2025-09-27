@@ -1,2 +1,3 @@
 (library
- (name moepwn))
+ (name moepwn)
+ (libraries base))
