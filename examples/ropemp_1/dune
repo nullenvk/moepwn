@@ -1,0 +1,4 @@
+(executable
+ (name pwn)
+ (public_name ropemp_1)
+ (libraries moepwn))
