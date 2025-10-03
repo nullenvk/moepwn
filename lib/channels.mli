@@ -5,3 +5,5 @@ module type Pwn_Channel = sig
 
     val open_chan : channel_params -> handle
 end
+
+module Process_Channel : Pwn_Channel
